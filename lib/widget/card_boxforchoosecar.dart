@@ -17,7 +17,7 @@ class CardBoxForChooseCar extends StatelessWidget {
         fontSize: 20, color: Colors.white, fontWeight: FontWeight.bold);
     return Center(
       child: Padding(
-        padding: const EdgeInsets.fromLTRB(20, 10, 20, 10),
+        padding: const EdgeInsets.symmetric(horizontal: 10),
         child: Column(children: [
           ClipRRect(
             borderRadius: BorderRadius.circular(30),
