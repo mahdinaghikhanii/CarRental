@@ -96,11 +96,6 @@ class SelectCarScreans extends StatelessWidget {
                       chooseCar: 'Porshe 911 S',
                       imageCar: 'assets/images/porshe.png'),
                   CardSelectCars(
-                      mony: '900',
-                      roudsAndKm: '13Km Rasht',
-                      chooseCar: 'Tesla S',
-                      imageCar: 'assets/images/tesla.png'),
-                  CardSelectCars(
                       mony: '1800',
                       roudsAndKm: '2Km Rasht',
                       chooseCar: 'Mercedes benz S500',
@@ -110,11 +105,6 @@ class SelectCarScreans extends StatelessWidget {
                       roudsAndKm: '1Km Rasht',
                       chooseCar: 'Porshe 911 Cara 4s',
                       imageCar: 'assets/images/porshe3.png'),
-                  CardSelectCars(
-                      mony: '500',
-                      roudsAndKm: '4Km Rasht',
-                      chooseCar: 'Bmw Z8',
-                      imageCar: 'assets/images/z4.png'),
                   CardSelectCars(
                       mony: '1000',
                       roudsAndKm: '18Km Rasht',
